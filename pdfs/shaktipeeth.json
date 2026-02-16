@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "हिंगलाज माता",
+    "name_en": "Hinglaj Mata",
+    "location": "बलूचिस्तान, पाकिस्तान",
+    "location_en": "Balochistan, Pakistan",
+    "body_part": "सिर का ऊपरी भाग (ब्रह्मरंध्र)",
+    "shakti": "कोट्टरी",
+    "bhairav": "भीमलोचन",
+    "desc": "यह सबसे पहला शक्तिपीठ माना जाता है। यहाँ माता सती का सिर गिरा था। इसे 'नानी का मंदिर' भी कहा जाता है।"
+  },
+  {
+    "id": "2",
+    "name": "कामाख्या देवी",
+    "name_en": "Kamakhya Devi",
+    "location": "गुवाहाटी, असम",
+    "location_en": "Guwahati, Assam",
+    "body_part": "योनि (महामुद्रा)",
+    "shakti": "कामाख्या",
+    "bhairav": "उमानंद",
+    "desc": "नीलांचल पर्वत पर स्थित यह मंदिर तंत्र साधना का सर्वोच्च स्थल है। यहाँ माता रजस्वला होती हैं।"
+  },
+  {
+    "id": "3",
+    "name": "कालीघाट (कालिका)",
+    "name_en": "Kalighat (Kalika)",
+    "location": "कोलकाता, पश्चिम बंगाल",
+    "location_en": "Kolkata, West Bengal",
+    "body_part": "दाएं पैर का अंगूठा",
+    "shakti": "कालिका",
+    "bhairav": "नकुलेश",
+    "desc": "यह बंगाल का सबसे प्रसिद्ध शक्तिपीठ है। यहाँ देवी का रौद्र रूप पूजा जाता है।"
+  },
+  {
+    "id": "4",
+    "name": "ज्वालाजी",
+    "name_en": "Jwala Ji",
+    "location": "कांगड़ा, हिमाचल प्रदेश",
+    "location_en": "Kangra, Himachal Pradesh",
+    "body_part": "जीभ (जिव्हा)",
+    "shakti": "सिद्धिदा (अंबिका)",
+    "bhairav": "उन्मत्त",
+    "desc": "यहाँ देवी की मूर्ति नहीं है, बल्कि धरती से निकल रही 9 प्राकृतिक ज्वालाओं की पूजा होती है।"
+  },
+  {
+    "id": "5",
+    "name": "विशालाक्षी (मणिकर्णिका)",
+    "name_en": "Vishalakshi (Manikarnika)",
+    "location": "वाराणसी, उत्तर प्रदेश",
+    "location_en": "Varanasi, Uttar Pradesh",
+    "body_part": "मणिकर्णिका (कान की बाली)",
+    "shakti": "विशालाक्षी",
+    "bhairav": "काल भैरव",
+    "desc": "काशी विश्वनाथ मंदिर के पास स्थित। यहाँ माता के कुंडल गिरे थे।"
+  },
+  {
+    "id": "6",
+    "name": "अमरनाथ",
+    "name_en": "Amarnath",
+    "location": "पहलगाम, कश्मीर",
+    "location_en": "Pahalgam, Kashmir",
+    "body_part": "कंठ (गला)",
+    "shakti": "महामाया",
+    "bhairav": "त्रिसंध्येश्वर",
+    "desc": "बर्फानी बाबा की गुफा में स्थित। यहाँ माता सती का कंठ गिरा था।"
+  },
+  {
+    "id": "7",
+    "name": "हरसिद्धि माता",
+    "name_en": "Harsiddhi Mata",
+    "location": "उज्जैन, मध्य प्रदेश",
+    "location_en": "Ujjain, Madhya Pradesh",
+    "body_part": "हाथ की कोहनी",
+    "shakti": "मंगल चण्डिका",
+    "bhairav": "कपिलेम्बर",
+    "desc": "महाकालेश्वर मंदिर के पास स्थित। राजा विक्रमादित्य की आराध्य देवी।"
+  },
+  {
+    "id": "8",
+    "name": "कन्याकुमारी",
+    "name_en": "Kanyakumari",
+    "location": "कन्याकुमारी, तमिलनाडु",
+    "location_en": "Kanyakumari, Tamil Nadu",
+    "body_part": "पीठ",
+    "shakti": "सर्वाणी",
+    "bhairav": "निमिष",
+    "desc": "तीन सागरों के संगम पर स्थित। इसे 'सर्वाणी शक्तिपीठ' भी कहते हैं।"
+  },
+  {
+    "id": "9",
+    "name": "गुह्येश्वरी",
+    "name_en": "Guhyeshwari",
+    "location": "काठमांडू, नेपाल",
+    "location_en": "Kathmandu, Nepal",
+    "body_part": "दोनों घुटने",
+    "shakti": "महाशिरा",
+    "bhairav": "कपाली",
+    "desc": "पशुपतिनाथ मंदिर के पास बागमती नदी के तट पर स्थित है।"
+  },
+  {
+    "id": "10",
+    "name": "प्रयाग (ललिता/अलोपी)",
+    "name_en": "Prayag (Lalita/Alopi Devi)",
+    "location": "प्रयागराज, उत्तर प्रदेश",
+    "location_en": "Prayagraj, Uttar Pradesh",
+    "body_part": "हाथ की उंगलियां",
+    "shakti": "ललिता",
+    "bhairav": "भव",
+    "desc": "संगम तट पर स्थित। इसे अलोपी देवी भी कहा जाता है क्योंकि यहाँ मूर्ति नहीं, पालना पूजा जाता है।"
+  },
+  {
+    "id": "11",
+    "name": "त्रिपुर सुंदरी",
+    "name_en": "Tripura Sundari",
+    "location": "उदयपुर, त्रिपुरा",
+    "location_en": "Udaipur, Tripura",
+    "body_part": "दायां पैर",
+    "shakti": "त्रिपुर सुंदरी",
+    "bhairav": "त्रिपुरेश",
+    "desc": "पूर्वोत्तर भारत का प्रमुख तीर्थ स्थल।"
+  },
+  {
+    "id": "12",
+    "name": "वैद्यनाथ (जयदुर्गा)",
+    "name_en": "Baidyanath (Jayadurga)",
+    "location": "देवघर, झारखंड",
+    "location_en": "Deoghar, Jharkhand",
+    "body_part": "हृदय",
+    "shakti": "जयदुर्गा",
+    "bhairav": "वैद्यनाथ",
+    "desc": "यह स्थान ज्योतिर्लिंग और शक्तिपीठ दोनों है। यहाँ माता का हृदय गिरा था।"
+  },
+  {
+    "id": "13",
+    "name": "नैना देवी",
+    "name_en": "Naina Devi",
+    "location": "बिलासपुर, हिमाचल प्रदेश",
+    "location_en": "Bilaspur, Himachal Pradesh",
+    "body_part": "आंखें (नेत्र)",
+    "shakti": "महिषमर्दिनी",
+    "bhairav": "क्रोधिश",
+    "desc": "शिवालिक पहाड़ियों पर स्थित। यहाँ माता की आंखें गिरी थीं।"
+  },
+  {
+    "id": "14",
+    "name": "मनसा देवी",
+    "name_en": "Manasa Devi",
+    "location": "तिब्बत (मानसरोवर)",
+    "location_en": "Tibet (Mansarovar)",
+    "body_part": "दायां हाथ",
+    "shakti": "दाक्षायनी",
+    "bhairav": "अमर",
+    "desc": "कैलाश मानसरोवर के पास स्थित अत्यंत पावन शक्तिपीठ।"
+  },
+  {
+    "id": "15",
+    "name": "बहुला",
+    "name_en": "Bahula",
+    "location": "वर्धमान, पश्चिम बंगाल",
+    "location_en": "Bardhaman, West Bengal",
+    "body_part": "बायां हाथ",
+    "shakti": "बहुला",
+    "bhairav": "भीरुक",
+    "desc": "यहाँ माता सती का बायां हाथ गिरा था।"
+  }
+]
