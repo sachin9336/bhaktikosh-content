@@ -1,10 +1,10 @@
 {
   "homeSlider": [
     "OhRpOsDjpCE",
-    "gwYTWyJCOKE",  
-    "AETFvQonfV8",  
-    "HsoP-bjfnk8",  
-    "GbYykgfwTwQ",  
+    "gwYTWyJCOKE",
+    "AETFvQonfV8",
+    "HsoP-bjfnk8",
+    "GbYykgfwTwQ",
     "NE3SWh9_vR4"
   ],
   "galleryVideos": [
@@ -13,4 +13,5 @@
     { "id": "AETFvQonfV8", "title": "श्री राम स्तुति (Shri Ram Stuti)", "category": "भजन" },
     { "id": "HsoP-bjfnk8", "title": "शिव तांडव स्तोत्र (Shiv Tandav)", "category": "आरती" },
     { "id": "GbYykgfwTwQ", "title": "शांति मंत्र (Shanti Mantra)", "category": "मंत्र" }
+  ]
 }
