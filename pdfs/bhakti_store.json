@@ -19,7 +19,7 @@
       "platform": "Amazon"
     },
     { 
-    id: '4', 
+    id: '3', 
     name: 'चंदन की लकड़ी', 
     price: '₹350', 
     image: 'https://m.media-amazon.com/images/I/71RRPtyIY3L._AC_UL320_.jpg', 
@@ -27,7 +27,7 @@
     platform: 'Amazon' 
   },
     {
-      "id": "3",
+      "id": "4",
       "name": "पीतल की पूजा थाली सेट",
       "description": "दीपक, घंटी और अगरबत्ती स्टैंड के साथ संपूर्ण पूजा सेट।",
       "price": "₹899",
