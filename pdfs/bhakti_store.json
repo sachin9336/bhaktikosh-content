@@ -4,7 +4,7 @@
       "id": "1",
       "name": "पंचमुखी रुद्राक्ष माला (108 दाने)",
       "description": "असली नेपाली रुद्राक्ष, ध्यान और जाप के लिए सर्वोत्तम।",
-      "price": "₹499",
+      "price": "🎉 ऑफर प्राइस देखें",
       "image": "https://m.media-amazon.com/images/I/41aK4ii38dL._SY575_.jpg",
       "affiliateLink": "https://amzn.to/4enfpqp",
       "platform": "Amazon"
@@ -13,7 +13,7 @@
       "id": "2",
       "name": "श्रीमद्भगवद्गीता (यथारूप)",
       "description": "हिंदी अनुवाद के साथ, जीवन को दिशा देने वाला पवित्र ग्रंथ।",
-      "price": "₹250",
+      "price": "🏷️ Today's Deal",
       "image": "https://m.media-amazon.com/images/I/71CnvGCrv4L._AC_UY218_.jpg",
       "affiliateLink": "https://amzn.to/4uTQktj",
       "platform": "Amazon"
@@ -22,7 +22,7 @@
       "id": "3",
       "name": "चंदन की लकड़ी",
       "description": "शुद्ध चंदन की लकड़ी, पूजा और भगवान के तिलक के लिए।",
-      "price": "₹350",
+      "price": "✨ Amazon पर कीमत देखें",
       "image": "https://m.media-amazon.com/images/I/71RRPtyIY3L._AC_UL320_.jpg",
       "affiliateLink": "https://amzn.to/3Q7TxpV",
       "platform": "Amazon"
@@ -31,9 +31,45 @@
       "id": "4",
       "name": "पीतल की पूजा थाली सेट",
       "description": "दीपक, घंटी और अगरबत्ती स्टैंड के साथ संपूर्ण पूजा सेट।",
-      "price": "₹899",
+      "price": "🎁 स्पेशल डिस्काउंट",
       "image": "https://m.media-amazon.com/images/I/91439JjTHtL._AC_UL320_.jpg",
       "affiliateLink": "https://amzn.to/4fN7sfF",
+      "platform": "Amazon"
+    },
+    {
+      "id": "5",
+      "name": "पवित्र गंगा जल (हरिद्वार)",
+      "description": "घर की शुद्धि, पूजा और रुद्राभिषेक के लिए 100% शुद्ध गंगा जल।",
+      "price": "💧 बेस्ट प्राइस चेक करें",
+      "image": "https://m.media-amazon.com/images/I/61UkJIJ+iTL._AC_UL320_.jpg",
+      "affiliateLink": "https://amzn.to/3SnOK4g",
+      "platform": "Amazon"
+    },
+    {
+      "id": "6",
+      "name": "शिवलिंग स्मोक फाउंटेन",
+      "description": "बैक-फ्लो धूप दानी। धुआँ पानी के झरने की तरह बहता है, जो मन को शांति देता है।",
+      "price": "🔥 ट्रेंडिंग प्रोडक्ट",
+      "image": "https://m.media-amazon.com/images/I/819tCRYVNnL._AC_UL320_.jpg",
+      "affiliateLink": "https://amzn.to/4eniWVP",
+      "platform": "Amazon"
+    },
+    {
+      "id": "7",
+      "name": "श्री रामचरितमानस (गीता प्रेस)",
+      "description": "मोटे अक्षरों में, सुंदर बाइंडिंग के साथ घर के मंदिर के लिए सर्वश्रेष्ठ।",
+      "price": "📖 ऑफर प्राइस देखें",
+      "image": "https://m.media-amazon.com/images/I/81gyefeEGgL._AC_UY218_.jpg",
+      "affiliateLink": "https://amzn.to/4g3VI8r",
+      "platform": "Amazon"
+    },
+    {
+      "id": "8",
+      "name": "शुद्ध तुलसी जाप माला",
+      "description": "108 दानों की असली तुलसी माला, भगवान कृष्ण के जाप और धारण करने के लिए।",
+      "price": "🌿 Amazon पर चेक करें",
+      "image": "https://m.media-amazon.com/images/I/71mIMgwuaTS._AC_UL320_.jpg",
+      "affiliateLink": "https://amzn.to/4obsaI5",
       "platform": "Amazon"
     }
   ]
