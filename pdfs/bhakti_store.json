@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "पंचमुखी रुद्राक्ष माला (108 दाने)",
+      "description": "असली नेपाली रुद्राक्ष, ध्यान और जाप के लिए सर्वोत्तम।",
+      "price": "₹499",
+      "image": "https://m.media-amazon.com/images/I/41aK4ii38dL._SY575_.jpg",
+      "affiliateLink": "https://amzn.to/4enfpqp",
+      "platform": "Amazon"
+    },
+    {
+      "id": "2",
+      "name": "श्रीमद्भगवद्गीता (यथारूप)",
+      "description": "हिंदी अनुवाद के साथ, जीवन को दिशा देने वाला पवित्र ग्रंथ।",
+      "price": "₹250",
+      "image": "https://m.media-amazon.com/images/I/71CnvGCrv4L._AC_UY218_.jpg",
+      "affiliateLink": "https://amzn.to/4uTQktj",
+      "platform": "Amazon"
+    },
+    {
+      "id": "3",
+      "name": "पीतल की पूजा थाली सेट",
+      "description": "दीपक, घंटी और अगरबत्ती स्टैंड के साथ संपूर्ण पूजा सेट।",
+      "price": "₹899",
+      "image": "https://m.media-amazon.com/images/I/91439JjTHtL._AC_UL320_.jpg",
+      "affiliateLink": "https://amzn.to/4fN7sfF",
+      "platform": "Amazon"
+    }
+  ]
+}
