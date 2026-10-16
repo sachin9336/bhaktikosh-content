@@ -1,7 +1,32 @@
 {
-  "liveVideoId": "HF5fmuF6fXs",
+  "liveStreams": [
+    {
+      "id": "live_1",
+      "title": "मुख्य मंच - राम जन्म",
+      "subtitle": "मुख्य रामलीला मैदान",
+      "videoId": "HF5fmuF6fXs",
+      "isLive": true,
+      "scheduledTime": "9:00 PM"
+    },
+    {
+      "id": "live_2",
+      "title": "दूसरा मंच - सीता स्वयंवर",
+      "subtitle": "आराखुर्द मैदान",
+      "videoId": "jfKfPfyJRdk",
+      "isLive": true,
+      "scheduledTime": "9:30 PM"
+    },
+    {
+      "id": "live_3",
+      "title": "भव्य आरती",
+      "subtitle": "मंदिर परिसर",
+      "videoId": "",
+      "isLive": false,
+      "scheduledTime": "7:00 PM"
+    }
+  ],
   "scheduleData": [
-    { "id": "1", "date": "32 Oct", "day": "पहला दिन", "title": "नारद मोह एवं राम जन्म" },
+    { "id": "1", "date": "21 Oct", "day": "पहला दिन", "title": "नारद मोह एवं राम जन्म" },
     { "id": "2", "date": "22 Oct", "day": "दूसरा दिन", "title": "ताड़का वध एवं अहिल्या उद्धार" },
     { "id": "3", "date": "23 Oct", "day": "तीसरा दिन", "title": "सीता स्वयंवर एवं परशुराम संवाद" },
     { "id": "4", "date": "24 Oct", "day": "चौथा दिन", "title": "राम वनवास एवं दशरथ मरण" },
@@ -21,48 +46,12 @@
     { "id": "8", "date": "28 Oct", "day": "आठवां दिन", "title": "भव्य मेला एवं राज्याभिषेक (समापन)", "desc": "भव्य मेला एवं राज्याभिषेक (समापन) का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" }
   ],
   "kalakarData": [
-    { 
-      "id": "1", 
-      "role": "श्री राम", 
-      "name": "अंकित शर्मा", 
-      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "लक्ष्मण! क्रोध को शांत करो भाई। परशुराम जी हमारे पूज्य हैं, वे ब्राह्मण हैं। क्षत्रिय का धर्म शस्त्र उठाना है, परंतु केवल धर्म की रक्षा के लिए, बड़ों के अपमान के लिए नहीं।" 
-    },
-    { 
-      "id": "2", 
-      "role": "माता सीता", 
-      "name": "प्रिया सिंह", 
-      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "हे नाथ! जहाँ आप हैं, वहीँ मेरी अयोध्या है। आपके बिना स्वर्ग के सुख भी मेरे लिए व्यर्थ हैं। मुझे अपने साथ वन जाने की आज्ञा दें।" 
-    },
-    { 
-      "id": "3", 
-      "role": "लक्ष्मण", 
-      "name": "रोहित तिवारी", 
-      "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "भैया! यह धनुष तो पुराना था, राम जी के छूते ही टूट गया। इसमें हमारे भ्राता का क्या दोष है जो मुनिवर इतना क्रोध कर रहे हैं?" 
-    },
-    { 
-      "id": "4", 
-      "role": "रावण", 
-      "name": "राकेश यादव", 
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "मैं त्रिलोक विजयी दशानन हूँ... मेरे बाहुबल के आगे देवता भी कांपते हैं।" 
-    },
-    { 
-      "id": "5", 
-      "role": "हनुमान", 
-      "name": "पवन कुमार", 
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "जय श्री राम! आज्ञा प्रभु... मैं क्षण भर में लंका का दहन कर माता का पता लगाऊंगा।" 
-    },
-    { 
-      "id": "6", 
-      "role": "दशरथ", 
-      "name": "राम प्रकाश", 
-      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop", 
-      "scriptText": "हे राम! मुझे छोड़ कर मत जाओ... हा राम! हा राम!" 
-    }
+    { "id": "1", "role": "श्री राम", "name": "अंकित शर्मा", "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&auto=format&fit=crop", "scriptText": "लक्ष्मण! क्रोध को शांत करो भाई। परशुराम जी हमारे पूज्य हैं, वे ब्राह्मण हैं।" },
+    { "id": "2", "role": "माता सीता", "name": "प्रिया सिंह", "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=200&auto=format&fit=crop", "scriptText": "हे नाथ! जहाँ आप हैं, वहीँ मेरी अयोध्या है।" },
+    { "id": "3", "role": "लक्ष्मण", "name": "रोहित तिवारी", "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=200&auto=format&fit=crop", "scriptText": "भैया! यह धनुष तो पुराना था, राम जी के छूते ही टूट गया।" },
+    { "id": "4", "role": "रावण", "name": "राकेश यादव", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop", "scriptText": "मैं त्रिलोक विजयी दशानन हूँ... मेरे बाहुबल के आगे देवता भी कांपते हैं।" },
+    { "id": "5", "role": "हनुमान", "name": "पवन कुमार", "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop", "scriptText": "जय श्री राम! आज्ञा प्रभु... मैं क्षण भर में लंका का दहन कर माता का पता लगाऊंगा।" },
+    { "id": "6", "role": "दशरथ", "name": "राम प्रकाश", "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop", "scriptText": "हे राम! मुझे छोड़ कर मत जाओ... हा राम! हा राम!" }
   ],
   "sanchalakData": [
     { "id": "1", "role": "संरक्षक", "name": "श्री दीनानाथ सिंह", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop" },
