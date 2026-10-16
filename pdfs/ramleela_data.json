@@ -23,6 +23,38 @@
       "videoId": "HF5fmuF6fXs",
       "isLive": false,
       "scheduledTime": "7:00 PM"
+    },
+    {
+      "id": "live_4",
+      "title": "मुख्य मंच - राम जन्म (चैनल 2)",
+      "subtitle": "मुख्य रामलीला मैदान",
+      "videoId": "HF5fmuF6fXs",
+      "isLive": true,
+      "scheduledTime": "9:00 PM"
+    },
+    {
+      "id": "live_5",
+      "title": "मुख्य मंच - राम जन्म (चैनल 3)",
+      "subtitle": "मुख्य रामलीला मैदान",
+      "videoId": "HF5fmuF6fXs",
+      "isLive": true,
+      "scheduledTime": "9:00 PM"
+    },
+    {
+      "id": "live_6",
+      "title": "मुख्य मंच - राम जन्म (चैनल 4)",
+      "subtitle": "मुख्य रामलीला मैदान",
+      "videoId": "HF5fmuF6fXs",
+      "isLive": true,
+      "scheduledTime": "9:00 PM"
+    },
+    {
+      "id": "live_7",
+      "title": "मुख्य मंच - राम जन्म (चैनल 5)",
+      "subtitle": "मुख्य रामलीला मैदान",
+      "videoId": "HF5fmuF6fXs",
+      "isLive": true,
+      "scheduledTime": "9:00 PM"
     }
   ],
   "scheduleData": [
