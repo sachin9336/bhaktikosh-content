@@ -59,7 +59,7 @@
   ],
   "scheduleData": [
     { "id": "1", "date": "21 Oct", "day": "पहला दिन", "title": "नारद मोह एवं राम जन्म" },
-    { "id": "2", "date": "22 Oct", "day": "दूसरा दिन", "title": "ताड़का वध एवं अहिल्या उद्धार" },
+    { "id": "2", "date": "22 Oct", "day": "दूसरा दिन", "title": "ताड़का वध एवं अहिल्या उद्धार" },
     { "id": "3", "date": "23 Oct", "day": "तीसरा दिन", "title": "सीता स्वयंवर एवं परशुराम संवाद" },
     { "id": "4", "date": "24 Oct", "day": "चौथा दिन", "title": "राम वनवास एवं दशरथ मरण" },
     { "id": "5", "date": "25 Oct", "day": "पांचवा दिन", "title": "सीता हरण एवं जटायु मरण" },
@@ -69,7 +69,7 @@
   ],
   "prasangData": [
     { "id": "1", "date": "21 Oct", "day": "पहला दिन", "title": "नारद मोह एवं राम जन्म", "desc": "नारद मोह एवं राम जन्म का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
-    { "id": "2", "date": "22 Oct", "day": "दूसरा दिन", "title": "ताड़का वध एवं अहिल्या उद्धार", "desc": "ताड़का वध एवं अहिल्या उद्धार का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
+    { "id": "2", "date": "22 Oct", "day": "दूसरा दिन", "title": "ताड़का वध एवं अहिल्या उद्धार", "desc": "ताड़का वध एवं अहिल्या उद्धार का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
     { "id": "3", "date": "23 Oct", "day": "तीसरा दिन", "title": "सीता स्वयंवर एवं परशुराम संवाद", "desc": "सीता स्वयंवर एवं परशुराम संवाद का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
     { "id": "4", "date": "24 Oct", "day": "चौथा दिन", "title": "राम वनवास एवं दशरथ मरण", "desc": "राम वनवास एवं दशरथ मरण का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
     { "id": "5", "date": "25 Oct", "day": "पांचवा दिन", "title": "सीता हरण एवं जटायु मरण", "desc": "सीता हरण एवं जटायु मरण का अत्यंत मार्मिक और सजीव मंचन हमारे स्थानीय कलाकारों द्वारा किया जाएगा। समय पर आकर प्रभु की लीला का आनंद लें।" },
@@ -83,7 +83,7 @@
     { "id": "3", "role": "लक्ष्मण", "name": "रोहित तिवारी", "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=200&auto=format&fit=crop", "scriptText": "भैया! यह धनुष तो पुराना था, राम जी के छूते ही टूट गया।" },
     { "id": "4", "role": "रावण", "name": "राकेश यादव", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop", "scriptText": "मैं त्रिलोक विजयी दशानन हूँ... मेरे बाहुबल के आगे देवता भी कांपते हैं।" },
     { "id": "5", "role": "हनुमान", "name": "पवन कुमार", "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop", "scriptText": "जय श्री राम! आज्ञा प्रभु... मैं क्षण भर में लंका का दहन कर माता का पता लगाऊंगा।" },
-    { "id": "6", "role": "दशरथ", "name": "राम प्रकाश", "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop", "scriptText": "हे राम! मुझे छोड़ कर मत जाओ... हा राम! हा राम!" }
+    { "id": "6", "role": "दशरथ", "name": "राम प्रकाश", "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop", "scriptText": "हे राम! मुझे छोड़ कर मत जाओ... हा राम! हा राम!" }
   ],
   "sanchalakData": [
     { "id": "1", "role": "संरक्षक", "name": "श्री दीनानाथ सिंह", "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&auto=format&fit=crop" },
@@ -94,8 +94,9 @@
     { "id": "6", "role": "व्यवस्थापक", "name": "श्री श्याम सुंदर", "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop" }
   ],
   "videoData": [
-    { "id": "1", "title": "राम जन्म एवं ताड़का वध (Day 1 & 2)", "thumb": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=600&auto=format&fit=crop" },
-    { "id": "2", "title": "सीता स्वयंवर (Day 3)", "thumb": "https://images.unsplash.com/photo-1582650047353-611df904b321?q=80&w=600&auto=format&fit=crop" }
+    { "id": "1", "title": "राम जन्म एवं ताड़का वध (Day 1 & 2)", "thumb": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=600&auto=format&fit=crop", "videoId": "HF5fmuF6fXs" },
+    { "id": "2", "title": "सीता स्वयंवर (Day 3)", "thumb": "https://images.unsplash.com/photo-1582650047353-611df904b321?q=80&w=600&auto=format&fit=crop", "videoId": "CC4E_xwVN4k" },
+    { "id": "3", "title": "रामलीला - विशेष प्रसंग", "thumb": "https://img.youtube.com/vi/aFNR4fC_iTM/hqdefault.jpg", "videoId": "aFNR4fC_iTM" }
   ],
   "galleryData": [
     "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?q=80&w=800&auto=format&fit=crop",
